@@ -1,0 +1,14 @@
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.exe
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.deps.json
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.runtimeconfig.json
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.dll
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\bin\Debug\net6.0\ConProOne.pdb
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfoInputs.cache
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.AssemblyInfo.cs
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.dll
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\refint\ConProOne.dll
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.pdb
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ConProOne.genruntimeconfig.cache
+C:\Users\Ashwitha\Desktop\MPHASIS2\Phase4\day3\ConProOne\ConProOne\obj\Debug\net6.0\ref\ConProOne.dll
